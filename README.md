@@ -6,6 +6,7 @@ Resistor Scan uses the IEC 60063:2015 standard to classify images for the markin
 More infromation about the IEC 60063:2015 and IEC 60062 standards may be accessed at the following links:
 
 https://webstore.iec.ch/publication/22011
+
 https://webstore.iec.ch/preview/info_iec60062%7Bed5.0%7Den.pdf
 
 
