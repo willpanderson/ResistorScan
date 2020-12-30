@@ -9,6 +9,7 @@ https://webstore.iec.ch/publication/22011
 
 https://webstore.iec.ch/preview/info_iec60062%7Bed5.0%7Den.pdf
 
+https://blog.digilentinc.com/wp-content/uploads/2015/01/resistor-color-codes.png
 
 ![](Documentation/Readme_Images/resistorvalues.JPG)
 
