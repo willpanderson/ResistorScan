@@ -1,7 +1,7 @@
 # Resistor Scan
 Resistor Scan is a machine-learning Android application to help facilitate the identification of resistor values using image reconigiton. 
 
-Resistor Scan uses the IEC 60063:2015 standard to classify images for the marking and coding of resistors with their respective resistance values as described in IEC 60062. Resistor Scan uses the E24 series of resistors as this is most common in modern electronics. 
+Resistor Scan uses the IEC 60063:2015 standard to classify images for the marking and coding of resistors with their respective resistance values as described in IEC 60062. Resistor Scan uses the E12 and E24 eries of resistors as this is most common in modern electronics. 
 
 More infromation about the IEC 60063:2015 and IEC 60062 standards may be accessed at the following links:
 
