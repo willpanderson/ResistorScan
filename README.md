@@ -11,6 +11,8 @@ https://webstore.iec.ch/preview/info_iec60062%7Bed5.0%7Den.pdf
 
 https://blog.digilentinc.com/wp-content/uploads/2015/01/resistor-color-codes.png
 
+https://ohmslawcalculator.com/e24-resistor-sizes
+
 ![](Documentation/Readme_Images/resistorvalues.JPG)
 
 Collaborators to this repository include:
